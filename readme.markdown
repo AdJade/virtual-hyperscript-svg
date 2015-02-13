@@ -1,6 +1,6 @@
 # virtual-hyperscript-svg
 
-create virtual-dom nodes for svg using hyperscript
+create virtual-dom nodes for svg using hyperscript syntax
 
 # example
 
