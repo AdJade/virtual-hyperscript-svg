@@ -1,6 +1,6 @@
 {
   "name": "virtual-hyperscript-svg",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "create virtual-dom nodes for svg using hyperscript syntax",
   "main": "index.js",
   "directories": {
