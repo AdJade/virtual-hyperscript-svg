@@ -14,7 +14,7 @@ module.exports = function (name, props, children) {
             children = props;
             props = {};
         }
-        return hsvg(name, xtend(props, { xmlns: ns }), children);
+        return hsvg(name, xtend({ xmlns: ns }, props), children);
     }
     else return hsvg(name, props, children);
 };
